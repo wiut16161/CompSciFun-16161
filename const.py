@@ -5,7 +5,7 @@ COUNTRY = "iso_alpha_3_code"
 START_YEAR = "year_start"
 
 #Year ended
-END_YEAR = "end_year"
+END_YEAR = "year_end"
 
 #Year mid
 MID_YEAR = "year_mid"
